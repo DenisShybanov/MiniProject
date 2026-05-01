@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/navigation_nav_graph.xml.flat",
+        "source": "com.qrmaster.app-main-64:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_scanner_frame.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/scanner_frame.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_search.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_bg_chip_type.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/bg_chip_type.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_qr_code_2.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_qr_code_2.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_open.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_open.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_fragment_scanner.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/fragment_scanner.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_copy.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_copy.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.qrmaster.app-main-64:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_qr_code_scanner.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_qr_code_scanner.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_share.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.qrmaster.app-main-64:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_activity_main.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_activity_details.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_item_qr_code.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/item_qr_code.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_flash_off.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_flash_off.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_fragment_history.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout_fragment_generator.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout/fragment_generator.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_flash_on.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_flash_on.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/drawable_ic_history.xml.flat",
+        "source": "com.qrmaster.app-main-64:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.qrmaster.app-main-64:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.qrmaster.app-merged_res-62:/layout-land_fragment_generator.xml.flat",
+        "source": "com.qrmaster.app-main-64:/layout-land/fragment_generator.xml"
+    }
+]
